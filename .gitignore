@@ -1,2 +1,5 @@
 .vscode
 **/*.class
+./Bubble Sort/Main.class
+./Insertion Sort/Main.class
+./Selection Sort/Main.class
